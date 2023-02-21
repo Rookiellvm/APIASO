@@ -1,4 +1,4 @@
-# Othread Obfuscator
+# APIASO Obfuscator
 
 APIASO is an LLVM-based obfuscation tool that perfectly implements API call obfuscation for C/C++ code under Windows platform with x86 architecture.
 
